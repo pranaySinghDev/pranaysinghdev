@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**pranaySinghDev/pranaysinghdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on golang and cloudnative application
+- 🌱 I’m currently learning to master service mesh architecture
+- 👯 I’m looking to collaborate on open source utility projects on golang(cloud native).
+- 💬 Ask me about google cloud application development
+- 📫 How to reach me: email me at Pranaysinghdev@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+    There is a VSCode extension which lets you control your music from the IDE.
+    You and i will die before P vs NP gets solved. (Change my mind)
+    There is nothing like a full stack developer, its a unicon.
+
