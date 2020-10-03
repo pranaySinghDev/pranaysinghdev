@@ -9,6 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
     There is a VSCode extension which lets you control your music from the IDE.
-    You and i will die before P vs NP gets solved. (Change my mind)
+    You and I will die before P vs NP gets solved. (Change my mind)
     There is nothing like a full stack developer, its a unicon.
 
