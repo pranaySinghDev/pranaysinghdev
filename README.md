@@ -7,6 +7,7 @@
 - 💬 Ask me about google cloud application development
 - 📫 How to reach me: email me at Pranaysinghdev@gmail.com
 - ⚡ Fun fact: 
+    * Turbulent flow is much elegant then Laminar flow. (Change my mind).
     * There is a VSCode extension which lets you control your music from the IDE.
     * You and I will die before P vs NP gets solved. (Change my mind).
     * There is nothing like a full stack developer, its a unicon.
